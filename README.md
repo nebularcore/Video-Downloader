@@ -22,7 +22,7 @@ An advanced, easy-to-deploy Telegram bot to download videos from **YouTube**, **
 Just copy and paste the command below into your Ubuntu terminal:
 
 ```bash
-git clone [https://github.com/nebularcore/Video-Downloader.git](https://github.com/nebularcore/Video-Downloader.git) && cd Video-Downloader && chmod +x manager.sh && ./manager.sh
+git clone [https://github.com/nebularcore/Video-Downloader.git](https://github.com/nebularcore/Video-Downloader.git) && cd Video-Downloader && chmod +x manager.sh && ./manager.sh```
 
 🛠 Manual Setup | نصب دستی
 If you prefer to set it up manually:
